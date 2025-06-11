@@ -7,7 +7,7 @@ function Varshit(){
     <>
     <Container>
     <center>
-    <div  className={style.size}><h1 className={style.head}>Computer Componets</h1> 
+    <div  className={style.size}><h2 className={style.head}>Computer Components</h2> 
     <ComA/></div>
     </center>
     </Container>
