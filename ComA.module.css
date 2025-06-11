@@ -1,0 +1,9 @@
+.fsize{
+    font-size: 35px;
+
+}
+.bg:hover{
+    color: aquamarine;
+    cursor:grab;
+    
+}
